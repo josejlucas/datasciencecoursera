@@ -6,6 +6,7 @@ output: html_document
 ---
 
 ## This is a markdown file
+Example
 
 
 ```{r setup, include=FALSE}
